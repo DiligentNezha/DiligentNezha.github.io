@@ -3,13 +3,15 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: 不偷懒小哪吒
+subtitle: 化繁为简，大巧不工。
 description: ''
 keywords:
-author: John Doe
-language: en
-timezone: ''
+  - 技术
+  - 生活
+author: DiligentNezha
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
